@@ -1,7 +1,6 @@
 # REST API for Bus Reservation System Portal 
 
 * We have developed this REST API for a Bus Reservation System Portal Application. This API performs all the fundamental CRUD operations of any Bus Reservation Application platform with user validation at every step.
-* This project is developed by team of 5 Back-end Developers during project week in Masai School. 
 
 ## Tech Stack
 
@@ -34,10 +33,6 @@
     * Viewing list of available buses and booking a reservation
     * Only logged in user can access his reservations, profile updation and other features.
 
-## Contributors
-
-* Ankit Kumar
-* Aditya Yadav
 ## Installation & Run
 
     server.port=8888
@@ -163,17 +158,5 @@
 
 <img src="https://github.com/vinaykumar2n/succinct-wrench-1095/blob/main/Images/RouteController.jpg?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
----
-
-### Feedback Controller
-
----
-
-<img src="https://github.com/vinaykumar2n/succinct-wrench-1095/blob/main/Images/FeedbackController.jpg?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
----
-
-
-# THANK YOU EVERYONE FOR VISITING OUR PROJECT
 
 ---
